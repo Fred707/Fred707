@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fred707
 - 👀 I’m interested in ...all things web development and DevOps
-- 🌱 I’m currently learning ...Javascript, Azure DevOps, Docker, gitlab-ci
-- 💞️ I’m looking to collaborate on ...Javascript projects to learn and improve my coding skills. I also like the CI/CD side of things and am keen to learn more about gitlab-ci
+- 🌱 I’m currently learning ...Javascript, Azure DevOps, Docker, gitlab-ci & Python
+- 💞️ I’m looking to collaborate on ...Python and Javascript projects to learn and improve my coding skills. I also like the CI/CD side of things and am keen to learn more about gitlab-ci
 - 📫 How to reach me ...I guess you found me if you're reading this :)
 
 <!---
